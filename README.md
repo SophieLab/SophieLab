@@ -4,7 +4,7 @@
 const aLittleAboutMe = {
   firstName: 'Sophie',
   lastName: 'Labyt',
-  age: 27,
+  age: 28,
   country: 'France',
   myPassions: ['UI/UX Design', 'Hiking', 'Running', 'Board Games', 'Gardening']
 }
